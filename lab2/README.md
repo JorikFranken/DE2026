@@ -1,4 +1,4 @@
-# A Cheat Sheet with Most Docker Commands
+# A Cheat Sheet With Most Docker Commands
 
 https://docs.docker.com/get-started/docker_cheatsheet.pdf
 
